@@ -1,0 +1,2 @@
+rootProject.name='EsewaIntegration'
+include ':app'
