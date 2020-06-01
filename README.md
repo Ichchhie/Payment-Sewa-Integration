@@ -1,2 +1,2 @@
 # Payment-Sewa-Integration
-![Retro map](retro-map.png)]
+![Retro map](screenshot_1.png)]
